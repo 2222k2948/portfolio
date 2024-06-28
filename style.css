@@ -1,0 +1,33 @@
+body{
+/* background-image: url('https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719446400&semt=ais_user');
+background-attachment:fixed;
+background-repeat: no-repeat;
+background-size: cover;} */
+background-color: bisque;
+}
+#nav1{
+    position:fixed;
+    top: 0;
+    background-color:bisque;
+}
+.float-right{
+    margin-top: 50px;
+}
+.nav-link1{
+    font-size:medium;
+    color: black;
+    
+}
+.nav-item{
+    margin-left: 20px;
+}
+li a:hover{
+
+    color: rgb(9, 173, 143);
+   
+ text-decoration-line: none;
+}
+#info{
+    margin-top: 20px;
+    margin-left: 50px;
+}
